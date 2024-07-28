@@ -41,7 +41,7 @@ Ensure you have the following installed:
    Python app.py
 
 
-### Usage
+## Usage
 
 - **API Keys**: Enter your OpenAI and Pinecone API keys along with the Pinecone environment.
 - **Upload Catalog**: Upload your product catalog in CSV format. The CSV should contain the following columns: product_id, product_name, description, image_url.
